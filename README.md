@@ -1,4 +1,4 @@
-# COVID - 19 Vaccination: Data Analysis and Visualization
+# Summary
 
 • Extracted data on the vaccination numbers and confirmed COVID-19 cases in India; cleaned, processed and manipulated data to conduct exploratory data analysis
 • Generated and designed dashboards in Tableau to visualize the impact of the vaccination drive in India on combating COVID-19, with additional information on state wise scenarios
